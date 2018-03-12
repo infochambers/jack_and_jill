@@ -1,7 +1,9 @@
 # jack_and_jill
 The bog standard My Very First Whatsit, aka, _How_ does this thing work???
 
-Good evening everybody.
+----------------------
+
+Good evening everybody.+
 How do you do you do?
 We would like to introduce
 ourselves to you.
