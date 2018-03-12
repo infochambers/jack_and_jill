@@ -70,3 +70,5 @@ Now the time has come,
 for us to go I fear.
 So we wish you a merry Christmas
 and a happy new year!
+
+---Quite prolly by Benny Hill, sometime in the 'seventies.
